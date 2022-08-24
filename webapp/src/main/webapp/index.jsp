@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>Hello Everyone :) New user Register for DevOps Learning created by PMJ </h1>
+    <h1>Hello Everyone :) New user Register for DevOps Learning created by Praveen m j  </h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>hello praveen please enter another name</b></label>
+    <label for="Name"><b>hello praveen please enter any nother name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     <br>
